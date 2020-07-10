@@ -9,7 +9,7 @@ My research interests lie broadly in the area of Machine Learning. I am interest
 
 - [Deep Robust One-Class Classification](https://arxiv.org/abs/2002.12718).<br>
 Sachin Goyal, Aditi Raghunathan, **Moksh Jain**, Harsha Simhadri, Prateek Jain. <br>
-International Conference on Machine Learning, **ICML 2020**.<br>
+_International Conference on Machine Learning, **ICML 2020**._<br>
 
 - [Proximal Policy Optimization for Improved Convergence in IRGAN](https://arxiv.org/abs/1910.00352).<br>
 **Moksh Jain**, Sowmya Kamath. <br>
